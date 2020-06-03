@@ -1,4 +1,4 @@
-# Hey, I'm Max! 👋
+**Hey, I'm Max! 👋**
 
 I'm a JavaScript Engineer from Austria 🇦🇹 in love with React and Node. I currently work on open source JavaScript tooling at Gatsby. Before that I worked at GitHub (this thing!), who acquired my startup [Spectrum](https://github.com/withspectrum/spectrum).
 
