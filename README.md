@@ -34,4 +34,4 @@ Spectrum is an open source chat app for large online communities. With the benef
 
 <!-- /essay-marker -->
 
-*Note: This section gets auto-generated when new essays are published. Please let me know if it looks off.*
+<sub>*Note: This section gets [auto-generated when new essays are published](https://github.com/mxstbr/mxstbr.com/blob/master/sync-essays-to-github.ts). Please let me know if it looks off.*</sub>
