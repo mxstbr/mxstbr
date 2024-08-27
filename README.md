@@ -12,23 +12,23 @@
 
 <!-- essay-marker -->
 
-### [You probably don't need GraphQL](https://mxstbr.com/thoughts/graphql) (20,330 views)
+### [You probably don't need GraphQL](https://mxstbr.com/thoughts/graphql) (20,934 views)
 
 It might be surprising to hear the co-founder of a GraphQL company say you probably don't need it. Let me explain.
 
-### [Why I Love Tailwind](https://mxstbr.com/thoughts/tailwind) (45,263 views)
+### [Why I Love Tailwind](https://mxstbr.com/thoughts/tailwind) (46,315 views)
 
 Why Tailwind is blowing up, why I (the creator of styled-components) love it and how I avoid the downsides of atomic CSS.
 
-### [Margin considered harmful](https://mxstbr.com/thoughts/margin) (75,823 views)
+### [Margin considered harmful](https://mxstbr.com/thoughts/margin) (77,558 views)
 
 We should ban margin from our React components. Hear me out.
 
-### [Why I Write CSS in JavaScript](https://mxstbr.com/thoughts/css-in-js) (67,054 views)
+### [Why I Write CSS in JavaScript](https://mxstbr.com/thoughts/css-in-js) (67,287 views)
 
 For three years, I have written all my CSS in JavaScript. In fact, I am the creator of styled-components, one of the most popular CSS-in-JS libraries. Let me explain why.
 
-### [Tech Choices I Regret at Spectrum](https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum) (41,314 views)
+### [Tech Choices I Regret at Spectrum](https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum) (41,528 views)
 
 Spectrum is an open source chat app for large online communities. With the benefit of hindsight, here are the technology choices I regret.
 
